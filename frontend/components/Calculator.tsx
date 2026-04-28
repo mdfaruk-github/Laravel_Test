@@ -120,7 +120,7 @@ export default function Calculator() {
 
         {/* Title */}
         <div className="px-4 pt-4 pb-1 text-sm font-semibold text-zinc-800">
-          Standard
+          Standard Calculator
         </div>
 
         {/* Display */}
